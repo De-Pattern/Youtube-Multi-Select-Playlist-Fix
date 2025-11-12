@@ -9,6 +9,22 @@ Allows you to save to multiple playlists on youtube without closing the window a
 <br>
 **To Install:**<br>
 <br>
+-- 
+**EDIT: v.3.1 INSTALLATION INSTRUVTIONS:**<br>
+<br>
+Download YouTube Playlist Fix V3.1<br>
+Installation Instructions:<br>
+<br>
+Remove the old version from chrome://extensions/<br>
+Extract to a PERMANENT location (see README for details)<br>
+
+Example: C:\ChromeExtensions\YouTubePlaylistFix\<br>
+
+
+Load unpacked and point to that permanent folder<br>
+Refresh any open YouTube tabs<br>
+<br>
+-- 
 Download the zip file (the "Source Code (zip)" file at the bottom of the Releases page, under "Assets")<br>
 Extract it to a folder on your computer (you'll have to extract the first folder, then extract the zip inside of that. the folder within the second zip gives you the extension folder to load)<br>
 Open Chrome and go to chrome://extensions/<br>
