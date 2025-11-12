@@ -18,7 +18,7 @@ Installation Instructions:<br>
 Remove the old version from chrome://extensions/<br>
 Extract to a PERMANENT location (see README for details)<br>
 
-Example: C:\ChromeExtensions\YouTubePlaylistFix\<br>
+Example: C:\ChromeExtensions\YouTubePlaylistFix\
 
 
 Load unpacked and point to that permanent folder<br>
