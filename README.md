@@ -10,7 +10,7 @@ Allows you to save to multiple playlists on youtube without closing the window a
 **To Install:**<br>
 <br>
 -- 
-**EDIT: v.3.1 INSTALLATION INSTRUVTIONS:**<br>
+**EDIT: v.3.1 INSTALLATION INSTRUCTIONS:**<br>
 <br>
 Download YouTube Playlist Fix V3.1<br>
 Installation Instructions:<br>
