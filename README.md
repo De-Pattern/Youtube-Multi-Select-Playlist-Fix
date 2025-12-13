@@ -40,7 +40,7 @@ Go to YouTube and test<br>
 -click 3 dots under video > click "SAVE"<br>
 -select the playlist you want to save or remove from by clicking each playlist<br>
 (you can do multiple at a time, but you can only "save to" or "remove from" playlists that had previously had the opposite state. since the state of each playlist does not refresh in realtime, if you want to add or remove from a playlist that you just removed or added to, you must close [ESC key] and re-open the SAVE playlist window)<br>
--to CLOSE WINDOW, press ESC key. clicking off the window does not currently work to close the playlist save window<br>
+-* **EDIT: FIXED IN v3.4:**  ̶t̶o̶ ̶C̶L̶O̶S̶E̶ ̶W̶I̶N̶D̶O̶W̶,̶ ̶p̶r̶e̶s̶s̶ ̶E̶S̶C̶ ̶k̶e̶y̶.̶ ̶c̶l̶i̶c̶k̶i̶n̶g̶ ̶o̶f̶f̶ ̶t̶h̶e̶ ̶w̶i̶n̶d̶o̶w̶ ̶d̶o̶e̶s̶ ̶n̶o̶t̶ ̶c̶u̶r̶r̶e̶n̶t̶l̶y̶ ̶w̶o̶r̶k̶ ̶t̶o̶ ̶c̶l̶o̶s̶e̶ ̶t̶h̶e̶ ̶p̶l̶a̶y̶l̶i̶s̶t̶ ̶s̶a̶v̶e̶ ̶w̶i̶n̶d̶o̶w̶<br>
 <br>
 <br>
 **Issues/To Fix:**<br>
