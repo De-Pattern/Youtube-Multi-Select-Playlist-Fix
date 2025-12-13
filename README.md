@@ -10,12 +10,12 @@ Allows you to save to multiple playlists on youtube without closing the window a
 **To Install:**<br>
 <br>
 -- 
-**EDIT: v.3.1 INSTALLATION INSTRUCTIONS:**<br>
+**EDIT: v.3.4 INSTALLATION INSTRUCTIONS:**<br>
 <br>
-Download YouTube Playlist Fix V3.1<br>
+Download YouTube Playlist Fix V3.4<br>
 Installation Instructions:<br>
 <br>
-Remove the old version from chrome://extensions/<br>
+Remove the old version from chrome://extensions/ (if you have the old version installed)<br>
 Extract to a PERMANENT location (see README for details)<br>
 
 Example: C:\ChromeExtensions\YouTubePlaylistFix\
@@ -45,6 +45,6 @@ Go to YouTube and test<br>
 <br>
 **Issues/To Fix:**<br>
 <br>
--bookmark icons do not refresh (filled for SAVED, unfilled for REMOVED)<br>
+-**FIXED IN 3.4:** bookmark icons do not refresh (filled for SAVED, unfilled for REMOVED)<br>
 -playlist state does not refresh properly: cannot save and remove at once. after saving (to multiple playlists if you want), you have to close the window (ESC key), then re-open. the icons will now reflect which playlists your video is saved to and you can now either remove from a saved playlist or save to a playlist which the video has not be added to<br>
--clicking off the window does not currently work to close the playlist save window<br>
+-**FIXED IN 3.4:** clicking off the window does not currently work to close the playlist save window<br>
