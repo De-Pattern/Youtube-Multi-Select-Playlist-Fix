@@ -10,9 +10,9 @@ Allows you to save to multiple playlists on youtube without closing the window a
 **To Install:**<br>
 <br>
 -- 
-**v.3.4 INSTALLATION INSTRUCTIONS:**<br>
+**v.3.4.2 INSTALLATION INSTRUCTIONS:**<br>
 <br>
-Download YouTube Playlist Fix V3.4<br>
+Download YouTube Playlist Fix V3.4.2<br>
 Installation Instructions:<br>
 <br>
 Remove the old version from chrome://extensions/ (if you have the old version installed)<br>
